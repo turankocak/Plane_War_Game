@@ -1,0 +1,19 @@
+body{
+    background-image: url(images/arka.png);
+}
+#p1{
+    color: white;
+    position:relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#can{
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    position: absolute;
+    right: 580px;
+    font-weight: bold;
+    font-size: large;
+    top: 30px;
+}
